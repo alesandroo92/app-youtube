@@ -1,0 +1,18 @@
+{
+  "name": "app-youtube",
+  "version": "1.0.0",
+  "description": "Descarga de videos y audios de Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alesandro Accattoli Roman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "ytdl-core": "^4.11.0"
+  }
+}
